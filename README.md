@@ -3,10 +3,12 @@ This repository outlines the steps and associated scripts involved in setting up
 
 1. Sequence download: sequence_downloads (folder)
 
-2. Removal of redundancy within individual databases: CDHIT_within_databases.sh
+2. Merging of database files using the Unix cat command
 
-3. Local execution of InterProScan: interproscan.sh
+3. Removal of redundancy: CDHIT.sh
 
-4. Essential signature filtering and exclusion of sequences with inadequate signatures: signatures_comparison.ipynb
+4. Local execution of InterProScan: interproscan.sh
 
-5. Recoding
+5. Essential signature filtering and exclusion of sequences with inadequate signatures: signatures_comparison.ipynb
+
+6. Recoding
