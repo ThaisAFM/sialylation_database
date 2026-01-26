@@ -2,4 +2,4 @@
 # available at: https://interproscan-docs.readthedocs.io/en/v5/HowToDownload.html,
 # and was executed locally
 
-interproscan.sh -i sialylation_database_nr.fasta -o sialylation_interpro -f tsv -dp
+interproscan.sh -i <file_name>_nr.fasta -o <file_name>_interpro -f tsv -dp
