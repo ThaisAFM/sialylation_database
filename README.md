@@ -1,5 +1,7 @@
 # Sialylation database
-This repository outlines the steps and associated scripts involved in setting up a database of curated protein sequences for bacterial sialylation pathways. 
+This repository outlines the steps and associated scripts involved in setting up a database of curated protein sequences for bacterial sialylation pathways.
+
+## Database treatment:
 
 1. Sequence download: sequence_downloads (folder)
 
@@ -9,6 +11,14 @@ This repository outlines the steps and associated scripts involved in setting up
 
 4. Local execution of InterProScan: interproscan.sh
 
-5. Essential signature filtering and exclusion of sequences with inadequate signatures: signatures_comparison.ipynb
+## Reference sequences analysis: 
 
-6. Recoding
+1. Local execution of InterProScan: interproscan.sh
+
+2. Identification of signatures common to all references: common_signatures.ipynb
+
+## Cross-checking identified signatures 
+
+1. Essential signature filtering and exclusion of sequences with inadequate signatures: signatures_comparison.ipynb
+
+2. Recoding
