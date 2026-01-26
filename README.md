@@ -15,10 +15,10 @@ This repository outlines the steps and associated scripts involved in setting up
 
 1. Local execution of InterProScan: interproscan.sh
 
-2. Identification of signatures common to all references: common_signatures.ipynb
+2. Identification of signatures common to all references: interproscan_ref_summary.ipynb
 
 ## Cross-checking identified signatures 
 
-1. Essential signature filtering and exclusion of sequences with inadequate signatures: signatures_comparison.ipynb
+1. Essential signature filtering and exclusion of sequences with inadequate signatures: signatures_comparison_1.ipynb and signatures_comparison_2.ipynb
 
 2. Recoding
