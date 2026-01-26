@@ -19,6 +19,4 @@ This repository outlines the steps and associated scripts involved in setting up
 
 ## Cross-checking identified signatures 
 
-1. Essential signature filtering and exclusion of sequences with inadequate signatures: signatures_comparison_1.ipynb and signatures_comparison_2.ipynb
-
-2. Recoding
+1. Essential signature filtering and exclusion of sequences with inadequate signatures: signatures_comparison.ipynb (REVISAR e descrever que foi usado o mesmo para outras proteínas)
