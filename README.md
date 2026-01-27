@@ -24,3 +24,5 @@ This repository outlines the steps and associated scripts involved in setting up
 ## Final touches: 
 
 1. Remove redundancy of the filtered FASTA files: CDHIT.sh
+
+2. Recoding 
