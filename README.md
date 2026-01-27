@@ -1,28 +1,29 @@
-# Sialylation database
-This repository outlines the steps and associated scripts involved in setting up a database of curated protein sequences for bacterial sialylation pathways.
+# Sialylation Database
 
-## Database treatment:
+This repository describes the workflow and associated scripts used to build a curated database of protein sequences involved in bacterial sialylation pathways.
 
-1. Sequence download: sequences_downloads (folder)
+## Database processing
 
-2. Merging of database files using the Unix cat command
+1. Sequence download (`sequences_downloads/`)
+2. Merging database files using the Unix `cat` command
+3. Redundancy removal across databases (`CDHIT.sh`)
+4. Local execution of InterProScan (`interproscan.sh`)
 
-3. Removal of redundancy across databases: CDHIT.sh
+## Reference sequence analysis
 
-4. Local execution of InterProScan: interproscan.sh
+1. Local execution of InterProScan on reference sequences (`interproscan.sh`)
+2. Identification of InterPro signatures common to all reference sequences (`interproscan_ref_summary.ipynb`)
 
-## Reference sequences analysis: 
+## Signature cross-checking
 
-1. Local execution of InterProScan: interproscan.sh
+1. Filtering of essential signatures and exclusion of sequences with inadequate signature profiles (`signatures_comparison.ipynb`)
 
-2. Identification of signatures common to all references: interproscan_ref_summary.ipynb
+## Final processing steps
 
-## Cross-checking identified signatures:
+1. Redundancy removal of filtered FASTA files (`CDHIT.sh`)
+2. Sequence recoding (original FASTA headers → internal codes) (`recoding.ipynb`)
 
-1. Essential signature filtering and exclusion of sequences with inadequate signatures: signatures_comparison.ipynb 
+## Data availability
 
-## Final touches: 
-
-1. Remove redundancy of the filtered FASTA files: CDHIT.sh
-
-2. Recoding 
+1. Final curated FASTA sequences are available in the `sialylation_final_fastas/` directory
+2. Dataframes mapping internal sequence codes to original FASTA headers are available in the `code_dataframes/` directory
