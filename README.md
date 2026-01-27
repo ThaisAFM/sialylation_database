@@ -7,7 +7,7 @@ This repository outlines the steps and associated scripts involved in setting up
 
 2. Merging of database files using the Unix cat command
 
-3. Removal of redundancy: CDHIT.sh
+3. Removal of redundancy across databases: CDHIT.sh
 
 4. Local execution of InterProScan: interproscan.sh
 
