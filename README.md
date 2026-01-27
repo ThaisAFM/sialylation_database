@@ -17,6 +17,10 @@ This repository outlines the steps and associated scripts involved in setting up
 
 2. Identification of signatures common to all references: interproscan_ref_summary.ipynb
 
-## Cross-checking identified signatures 
+## Cross-checking identified signatures:
 
-1. Essential signature filtering and exclusion of sequences with inadequate signatures: signatures_comparison.ipynb (REVISAR e descrever que foi usado o mesmo para outras proteínas)
+1. Essential signature filtering and exclusion of sequences with inadequate signatures: signatures_comparison.ipynb 
+
+## Final touches: 
+
+1. Remove redundancy of the filtered FASTA files: CDHIT.sh
