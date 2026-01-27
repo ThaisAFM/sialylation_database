@@ -3,7 +3,7 @@ This repository outlines the steps and associated scripts involved in setting up
 
 ## Database treatment:
 
-1. Sequence download: sequence_downloads (folder)
+1. Sequence download: sequences_downloads (folder)
 
 2. Merging of database files using the Unix cat command
 
