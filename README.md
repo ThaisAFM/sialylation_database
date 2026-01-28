@@ -21,7 +21,7 @@ This repository describes the workflow and associated scripts used to build a cu
 ## Final processing steps
 
 1. Redundancy removal of filtered FASTA files (`CDHIT.sh`)
-2. Sequence recoding (original FASTA headers → internal codes) (`recoding.ipynb`)
+2. Sequence recoding (original FASTA headers → internal codes) (`codes.ipynb`)
 
 ## Data availability
 
