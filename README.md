@@ -26,4 +26,4 @@ This repository describes the workflow and associated scripts used to build a cu
 ## Data availability
 
 1. Final curated FASTA sequences are available in the `sialylation_final_fastas/` directory
-2. Dataframes mapping internal sequence codes to original FASTA headers are available in the `code_dataframes/` directory
+2. Dataframes mapping internal sequence codes to original FASTA headers are available in the `Headers/` directory
