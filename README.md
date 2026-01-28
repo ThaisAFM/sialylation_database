@@ -1,8 +1,8 @@
 # Sialylation Database
 
 This repository describes the workflow and associated scripts used to build a curated database of protein sequences involved in bacterial sialylation pathways.
-This workflow represents a branch of the construction of a larger bacterial sialic acid metabolism protein database, available at:  
-https://github.com/ThaisAFM/sialic_acid_catalog
+
+This workflow represents a branch of the construction of a larger bacterial sialic acid metabolism protein database, available at: https://github.com/ThaisAFM/sialic_acid_catalog
 
 ## Database processing
 
