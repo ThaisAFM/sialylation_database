@@ -1,0 +1,20 @@
+sp|P23889|KPSM1_ECOLX	7f98a20788cdfcfc8c7152286b597af0	258	PIRSF	PIRSF006648	DrrB	5	253	6.7E-14	T	07-10-2025	IPR000412	ABC-2 transporter	-	-
+sp|P23889|KPSM1_ECOLX	7f98a20788cdfcfc8c7152286b597af0	258	ProSiteProfiles	PS51012	ABC transporter integral membrane type-2 domain profile.	30	251	28.291336	T	07-10-2025	IPR047817	ABC-2 type transporter, transmembrane domain, bacterial-type	-	-
+sp|P23889|KPSM1_ECOLX	7f98a20788cdfcfc8c7152286b597af0	258	PANTHER	PTHR30413	INNER MEMBRANE TRANSPORT PERMEASE	15	254	1.3E-31	T	07-10-2025	-	-	-	-
+sp|P23889|KPSM1_ECOLX	7f98a20788cdfcfc8c7152286b597af0	258	Pfam	PF01061	ABC-2 type transporter	14	218	1.2E-11	T	07-10-2025	IPR013525	ABC-2 type transporter, transmembrane domain	-	-
+sp|P23889|KPSM1_ECOLX	7f98a20788cdfcfc8c7152286b597af0	258	PRINTS	PR00164	ABC-2 type transport system membrane protein signature	106	131	7.3E-37	T	07-10-2025	IPR000412	ABC-2 transporter	-	-
+sp|P23889|KPSM1_ECOLX	7f98a20788cdfcfc8c7152286b597af0	258	PRINTS	PR00164	ABC-2 type transport system membrane protein signature	140	164	7.3E-37	T	07-10-2025	IPR000412	ABC-2 transporter	-	-
+sp|P23889|KPSM1_ECOLX	7f98a20788cdfcfc8c7152286b597af0	258	PRINTS	PR00164	ABC-2 type transport system membrane protein signature	177	196	7.3E-37	T	07-10-2025	IPR000412	ABC-2 transporter	-	-
+sp|P23889|KPSM1_ECOLX	7f98a20788cdfcfc8c7152286b597af0	258	PRINTS	PR00164	ABC-2 type transport system membrane protein signature	32	53	7.3E-37	T	07-10-2025	IPR000412	ABC-2 transporter	-	-
+sp|P23889|KPSM1_ECOLX	7f98a20788cdfcfc8c7152286b597af0	258	PRINTS	PR00164	ABC-2 type transport system membrane protein signature	63	85	7.3E-37	T	07-10-2025	IPR000412	ABC-2 transporter	-	-
+sp|P23889|KPSM1_ECOLX	7f98a20788cdfcfc8c7152286b597af0	258	PRINTS	PR00164	ABC-2 type transport system membrane protein signature	197	216	7.3E-37	T	07-10-2025	IPR000412	ABC-2 transporter	-	-
+sp|P24584|KPSM5_ECOLX	03405d260f0b1f453a704c680985e1db	258	PANTHER	PTHR30413	INNER MEMBRANE TRANSPORT PERMEASE	15	254	3.5E-33	T	07-10-2025	-	-	-	-
+sp|P24584|KPSM5_ECOLX	03405d260f0b1f453a704c680985e1db	258	ProSiteProfiles	PS51012	ABC transporter integral membrane type-2 domain profile.	30	251	29.345821	T	07-10-2025	IPR047817	ABC-2 type transporter, transmembrane domain, bacterial-type	-	-
+sp|P24584|KPSM5_ECOLX	03405d260f0b1f453a704c680985e1db	258	PRINTS	PR00164	ABC-2 type transport system membrane protein signature	32	53	2.4E-37	T	07-10-2025	IPR000412	ABC-2 transporter	-	-
+sp|P24584|KPSM5_ECOLX	03405d260f0b1f453a704c680985e1db	258	PRINTS	PR00164	ABC-2 type transport system membrane protein signature	106	131	2.4E-37	T	07-10-2025	IPR000412	ABC-2 transporter	-	-
+sp|P24584|KPSM5_ECOLX	03405d260f0b1f453a704c680985e1db	258	PRINTS	PR00164	ABC-2 type transport system membrane protein signature	63	85	2.4E-37	T	07-10-2025	IPR000412	ABC-2 transporter	-	-
+sp|P24584|KPSM5_ECOLX	03405d260f0b1f453a704c680985e1db	258	PRINTS	PR00164	ABC-2 type transport system membrane protein signature	177	196	2.4E-37	T	07-10-2025	IPR000412	ABC-2 transporter	-	-
+sp|P24584|KPSM5_ECOLX	03405d260f0b1f453a704c680985e1db	258	PRINTS	PR00164	ABC-2 type transport system membrane protein signature	140	164	2.4E-37	T	07-10-2025	IPR000412	ABC-2 transporter	-	-
+sp|P24584|KPSM5_ECOLX	03405d260f0b1f453a704c680985e1db	258	PRINTS	PR00164	ABC-2 type transport system membrane protein signature	197	216	2.4E-37	T	07-10-2025	IPR000412	ABC-2 transporter	-	-
+sp|P24584|KPSM5_ECOLX	03405d260f0b1f453a704c680985e1db	258	PIRSF	PIRSF006648	DrrB	5	253	2.2E-14	T	07-10-2025	IPR000412	ABC-2 transporter	-	-
+sp|P24584|KPSM5_ECOLX	03405d260f0b1f453a704c680985e1db	258	Pfam	PF01061	ABC-2 type transporter	14	218	2.3E-12	T	07-10-2025	IPR013525	ABC-2 type transporter, transmembrane domain	-	-

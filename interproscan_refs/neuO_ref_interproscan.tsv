@@ -1,0 +1,15 @@
+sp|Q93S40|OATWY_NEIME	d680832369b177ebda68e895b3b3fca2	215	PANTHER	PTHR23416	SIALIC ACID SYNTHASE-RELATED	76	192	2.0E-18	T	07-10-2025	IPR051159	Hexapeptide-repeat containing acetyltransferases	-	-
+sp|Q93S40|OATWY_NEIME	d680832369b177ebda68e895b3b3fca2	215	SUPERFAMILY	SSF51161	Trimeric LpxA-like enzymes	36	192	6.52E-25	T	07-10-2025	IPR011004	Trimeric LpxA-like superfamily	-	-
+sp|Q93S40|OATWY_NEIME	d680832369b177ebda68e895b3b3fca2	215	Gene3D	G3DSA:2.160.10.10	Hexapeptide repeat proteins	1	215	4.8E-65	T	07-10-2025	-	-	-	-
+sp|Q93S40|OATWY_NEIME	d680832369b177ebda68e895b3b3fca2	215	CDD	cd04647	LbH_MAT_like	79	189	5.00724E-26	T	07-10-2025	-	-	-	-
+sp|Q93S40|OATWY_NEIME	d680832369b177ebda68e895b3b3fca2	215	Pfam	PF00132	Bacterial transferase hexapeptide (six repeats)	137	170	0.0072	T	07-10-2025	IPR001451	Hexapeptide repeat	-	-
+sp|A1ADJ6|NEUO_ECOK1	0a2214cd18fb37dbb8dd4e7a7f46faec	307	SUPERFAMILY	SSF51161	Trimeric LpxA-like enzymes	151	278	2.36E-29	T	07-10-2025	IPR011004	Trimeric LpxA-like superfamily	-	-
+sp|A1ADJ6|NEUO_ECOK1	0a2214cd18fb37dbb8dd4e7a7f46faec	307	MobiDBLite	mobidb-lite	consensus disorder prediction	1	90	-	T	07-10-2025	-	-	-	-
+sp|A1ADJ6|NEUO_ECOK1	0a2214cd18fb37dbb8dd4e7a7f46faec	307	MobiDBLite	mobidb-lite	consensus disorder prediction	1	95	-	T	07-10-2025	-	-	-	-
+sp|A1ADJ6|NEUO_ECOK1	0a2214cd18fb37dbb8dd4e7a7f46faec	307	CDD	cd04647	LbH_MAT_like	168	277	2.00159E-36	T	07-10-2025	-	-	-	-
+sp|A1ADJ6|NEUO_ECOK1	0a2214cd18fb37dbb8dd4e7a7f46faec	307	Gene3D	G3DSA:2.160.10.10	Hexapeptide repeat proteins	95	307	7.5E-71	T	07-10-2025	-	-	-	-
+sp|A1ADJ6|NEUO_ECOK1	0a2214cd18fb37dbb8dd4e7a7f46faec	307	Gene3D	G3DSA:1.20.5.340	-	2	94	3.3E-5	T	07-10-2025	-	-	-	-
+sp|A1ADJ6|NEUO_ECOK1	0a2214cd18fb37dbb8dd4e7a7f46faec	307	FunFam	G3DSA:2.160.10.10:FF:000043	K1 capsule O-acetyltransferase	92	307	3.9E-150	T	07-10-2025	-	-	-	-
+sp|A1ADJ6|NEUO_ECOK1	0a2214cd18fb37dbb8dd4e7a7f46faec	307	ProSitePatterns	PS00101	Hexapeptide-repeat containing-transferases signature.	235	263	-	T	07-10-2025	IPR018357	Hexapeptide transferase, conserved site	-	-
+sp|A1ADJ6|NEUO_ECOK1	0a2214cd18fb37dbb8dd4e7a7f46faec	307	PANTHER	PTHR23416	SIALIC ACID SYNTHASE-RELATED	110	283	8.6E-31	T	07-10-2025	IPR051159	Hexapeptide-repeat containing acetyltransferases	-	-
+sp|A1ADJ6|NEUO_ECOK1	0a2214cd18fb37dbb8dd4e7a7f46faec	307	SUPERFAMILY	SSF57997	Tropomyosin	4	89	3.27E-6	T	07-10-2025	-	-	-	-

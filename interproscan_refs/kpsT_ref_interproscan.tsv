@@ -1,0 +1,16 @@
+sp|P23888|KPST1_ECOLX	b57bf8bee9bfcb7e4e1b13a9313dec55	219	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	2	213	1.47E-36	T	07-10-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+sp|P23888|KPST1_ECOLX	b57bf8bee9bfcb7e4e1b13a9313dec55	219	ProSiteProfiles	PS50893	ATP-binding cassette, ABC transporter-type domain profile.	2	218	13.305477	T	07-10-2025	IPR003439	ABC transporter-like, ATP-binding domain	-	-
+sp|P23888|KPST1_ECOLX	b57bf8bee9bfcb7e4e1b13a9313dec55	219	SMART	SM00382	AAA_5	30	200	2.9E-6	T	07-10-2025	IPR003593	AAA+ ATPase domain	-	-
+sp|P23888|KPST1_ECOLX	b57bf8bee9bfcb7e4e1b13a9313dec55	219	Pfam	PF00005	ABC transporter	22	153	4.5E-12	T	07-10-2025	IPR003439	ABC transporter-like, ATP-binding domain	-	-
+sp|P23888|KPST1_ECOLX	b57bf8bee9bfcb7e4e1b13a9313dec55	219	ProSitePatterns	PS00211	ABC transporters family signature.	125	139	-	T	07-10-2025	IPR017871	ABC transporter-like, conserved site	-	-
+sp|P23888|KPST1_ECOLX	b57bf8bee9bfcb7e4e1b13a9313dec55	219	CDD	cd03220	ABC_KpsT_Wzt	2	198	2.76866E-92	T	07-10-2025	IPR015860	ABC transporter, teichoic acids export TagH-like	-	-
+sp|P23888|KPST1_ECOLX	b57bf8bee9bfcb7e4e1b13a9313dec55	219	Gene3D	G3DSA:3.40.50.300	-	1	218	2.0E-37	T	07-10-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+sp|P23888|KPST1_ECOLX	b57bf8bee9bfcb7e4e1b13a9313dec55	219	PANTHER	PTHR46743	TEICHOIC ACIDS EXPORT ATP-BINDING PROTEIN TAGH	4	218	8.1E-58	T	07-10-2025	IPR050683	Bacterial Polysaccharide Export ATP-binding	-	-
+sp|P24586|KPST5_ECOLX	23ec5fd740b58ea6c0feccfa4fc61855	224	PANTHER	PTHR46743	TEICHOIC ACIDS EXPORT ATP-BINDING PROTEIN TAGH	4	216	1.3E-59	T	07-10-2025	IPR050683	Bacterial Polysaccharide Export ATP-binding	-	-
+sp|P24586|KPST5_ECOLX	23ec5fd740b58ea6c0feccfa4fc61855	224	Pfam	PF00005	ABC transporter	22	153	5.5E-13	T	07-10-2025	IPR003439	ABC transporter-like, ATP-binding domain	-	-
+sp|P24586|KPST5_ECOLX	23ec5fd740b58ea6c0feccfa4fc61855	224	CDD	cd03220	ABC_KpsT_Wzt	2	204	1.24954E-100	T	07-10-2025	IPR015860	ABC transporter, teichoic acids export TagH-like	-	-
+sp|P24586|KPST5_ECOLX	23ec5fd740b58ea6c0feccfa4fc61855	224	Gene3D	G3DSA:3.40.50.300	-	1	221	3.2E-40	T	07-10-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+sp|P24586|KPST5_ECOLX	23ec5fd740b58ea6c0feccfa4fc61855	224	SMART	SM00382	AAA_5	30	199	1.5E-4	T	07-10-2025	IPR003593	AAA+ ATPase domain	-	-
+sp|P24586|KPST5_ECOLX	23ec5fd740b58ea6c0feccfa4fc61855	224	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	2	204	3.7E-39	T	07-10-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+sp|P24586|KPST5_ECOLX	23ec5fd740b58ea6c0feccfa4fc61855	224	ProSitePatterns	PS00211	ABC transporters family signature.	125	139	-	T	07-10-2025	IPR017871	ABC transporter-like, conserved site	-	-
+sp|P24586|KPST5_ECOLX	23ec5fd740b58ea6c0feccfa4fc61855	224	ProSiteProfiles	PS50893	ATP-binding cassette, ABC transporter-type domain profile.	2	223	15.079512	T	07-10-2025	IPR003439	ABC transporter-like, ATP-binding domain	-	-

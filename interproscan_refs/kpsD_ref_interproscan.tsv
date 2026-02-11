@@ -1,0 +1,12 @@
+sp|Q03961|KPSD1_ECOLX	f206adfe9ea0e73b94c806b48c172ad1	558	Gene3D	G3DSA:3.10.560.10	Outer membrane lipoprotein wza domain like	459	525	3.3E-9	T	07-10-2025	-	-	-	-
+sp|Q03961|KPSD1_ECOLX	f206adfe9ea0e73b94c806b48c172ad1	558	PANTHER	PTHR33619	POLYSACCHARIDE EXPORT PROTEIN GFCE-RELATED	10	332	3.8E-50	T	07-10-2025	IPR049712	Polysaccharide export protein	-	-
+sp|Q03961|KPSD1_ECOLX	f206adfe9ea0e73b94c806b48c172ad1	558	Gene3D	G3DSA:3.10.560.10	Outer membrane lipoprotein wza domain like	160	247	2.8E-7	T	07-10-2025	-	-	-	-
+sp|Q03961|KPSD1_ECOLX	f206adfe9ea0e73b94c806b48c172ad1	558	Pfam	PF10531	SLBB domain	461	507	0.016	T	07-10-2025	IPR019554	Soluble ligand binding domain	-	-
+sp|Q03961|KPSD1_ECOLX	f206adfe9ea0e73b94c806b48c172ad1	558	Gene3D	G3DSA:3.30.1950.10	wza like domain	70	159	9.1E-7	T	07-10-2025	-	-	-	-
+sp|Q03961|KPSD1_ECOLX	f206adfe9ea0e73b94c806b48c172ad1	558	Pfam	PF02563	Polysaccharide biosynthesis/export protein	88	159	2.0E-13	T	07-10-2025	IPR003715	Polysaccharide export protein, N-terminal domain	-	-
+sp|P42213|KPSD5_ECOLX	8d24a8e23a403b4df9c832fc1bc255ae	558	Pfam	PF10531	SLBB domain	461	508	0.011	T	07-10-2025	IPR019554	Soluble ligand binding domain	-	-
+sp|P42213|KPSD5_ECOLX	8d24a8e23a403b4df9c832fc1bc255ae	558	Gene3D	G3DSA:3.10.560.10	Outer membrane lipoprotein wza domain like	459	525	7.4E-9	T	07-10-2025	-	-	-	-
+sp|P42213|KPSD5_ECOLX	8d24a8e23a403b4df9c832fc1bc255ae	558	PANTHER	PTHR33619	POLYSACCHARIDE EXPORT PROTEIN GFCE-RELATED	12	337	1.4E-49	T	07-10-2025	IPR049712	Polysaccharide export protein	-	-
+sp|P42213|KPSD5_ECOLX	8d24a8e23a403b4df9c832fc1bc255ae	558	Pfam	PF02563	Polysaccharide biosynthesis/export protein	88	159	7.4E-13	T	07-10-2025	IPR003715	Polysaccharide export protein, N-terminal domain	-	-
+sp|P42213|KPSD5_ECOLX	8d24a8e23a403b4df9c832fc1bc255ae	558	Gene3D	G3DSA:3.10.560.10	Outer membrane lipoprotein wza domain like	160	247	2.8E-7	T	07-10-2025	-	-	-	-
+sp|P42213|KPSD5_ECOLX	8d24a8e23a403b4df9c832fc1bc255ae	558	Gene3D	G3DSA:3.30.1950.10	wza like domain	71	159	3.5E-6	T	07-10-2025	-	-	-	-
