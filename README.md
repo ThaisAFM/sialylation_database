@@ -27,5 +27,6 @@ This workflow represents a branch of the construction of a larger bacterial sial
 
 ## Data availability
 
-1. Final curated FASTA sequences are available in the `sialylation_final_fastas/` directory
-2. Dataframes mapping internal sequence codes to original FASTA headers are available in the `Headers/` directory
+1. The InterProScan output files for the reference sequences (input for the interproscan_ref_summary.ipynb notebook) are avaiable in the `interproscan_refs/` directory
+2. Final curated FASTA sequences are available in the `sialylation_final_fastas/` directory
+4. Dataframes mapping internal sequence codes to original FASTA headers are available in the `Headers/` directory
